@@ -40,8 +40,6 @@ Open your browser and navigate to `your LocalHost Adress` to start using the sto
 - Enhancing the interface with more themes and customization options.
 
 ## Screenshots:
-<img align="right" alt="Coding" width="400" src=">
+<img align="right" alt="Coding" width="400" src="https://github.com/selva1826/Stock-Market-Analyzer-A-Dash-Based-Interactive-Dashboard/blob/main/screenshot.png">
 
-## License:
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
