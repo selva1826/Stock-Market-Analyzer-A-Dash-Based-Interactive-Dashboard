@@ -1,4 +1,5 @@
-# Stock Market Analysis Tool
+# Stock Market Insight Tool
+## Advanced Real-Time Market Analyzer with Dynamic Candlestick Charts
 
 This project is a real-time stock market analysis tool that allows users to visualize the performance of stocks using interactive candlestick charts. It enables investors, traders, and analysts to monitor stock data and gain deeper insights into stock price movements over time.
 
